@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 首页按下背景 -->
+    <item name="index_tab_normal" type="drawable">#a8a9ab</item>
+	<!-- Background color -->
+	<item name="bg_tabhost" type="drawable">@android:color/darker_gray</item>
+</resources>

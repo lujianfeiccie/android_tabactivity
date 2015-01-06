@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sample_tabactivity</string>
+ <!-- 首页 -->
+    <string name="index_title">神马嘀嘀</string>
+    <string name="didi_text1">tab1</string>
+    <string name="didi_text2">tab2</string>
+    
+</resources>
